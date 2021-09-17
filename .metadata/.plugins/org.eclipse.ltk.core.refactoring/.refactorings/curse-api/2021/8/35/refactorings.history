@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;io.bidur.springbootstarter.topic&apos; to &apos;course-api-data/src/main/java&apos;&#x0A;- Original project: &apos;curse-api&apos;&#x0A;- Destination element: &apos;course-api-data/src/main/java&apos;&#x0A;- Original element: &apos;curse-api/src/main/java/io.bidur.springbootstarter.topic&apos;" description="Copy package" destination="=course-api-data/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;io.bidur.springbootstarter.topic" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1629668173025" version="1.0"/>
+</session>
